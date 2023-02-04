@@ -19,6 +19,5 @@ public class GettingHotInHere {
         System.out.println("10°C");
         System.out.println("If it were 2°C warmer it would be: 12.000000°C");
 
-
     }
 }

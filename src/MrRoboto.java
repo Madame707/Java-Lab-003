@@ -20,6 +20,5 @@ public class MrRoboto {
         // Write your program here
         System.out.println("no, I'm Stan");
         System.out.println("Domo arigato no, I'm Stan");
-
     }
 }
